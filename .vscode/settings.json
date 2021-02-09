@@ -1,0 +1,9 @@
+{
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#02c4239d",
+    "titleBar.inactiveBackground": "#02c4239d"
+  }
+}
